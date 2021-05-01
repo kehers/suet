@@ -1,6 +1,6 @@
 ## Suet
 
-*(This repo has now been put in read-only mode. No further work will continue on the open source version. It’s been increasingly difficult to keep the open source version up with the managed version at [mailintel.io](https://mailintel.io/) ~~suet.co~~. Instead of the divided attention between both versions, all focus will now be on the managed version. If you need to setup your own version of Suet or build anything off SES/Mailgun analytics, this source is still a good place to start)*
+*(This repo has now been put in read-only mode. No further work will continue on the open source version. If you are looking for a solution for detailed analytics and reporting for your transactional emails, as well sending broadcasts and creating automations using your existing messaging infrastructure, checkout [engage.so](https://engage.so/) ~~suet.co~~.If you need to setup your own version of Suet or build anything off SES/Mailgun analytics, this source is still a good place to start)*
 
 Suet is an analytics dashboard and reporting tool for transactional emails through Mailgun or SES. It gives better insight into the performance of your transactional emails by providing answers to questions like:
 
